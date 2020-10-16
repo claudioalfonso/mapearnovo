@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@android:color/holo_green_light</item>
+        <item name="colorPrimaryDark">@android:color/holo_green_dark</item>
+        <item name="colorAccent">@android:color/holo_orange_dark</item>
+    </style>
+
+    <style name="NoBarTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@android:color/holo_green_light</item>
+        <item name="colorPrimaryDark">@android:color/holo_green_dark</item>
+        <item name="colorAccent">@android:color/holo_orange_dark</item>
+    </style>
+
+</resources>

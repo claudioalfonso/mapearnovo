@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "735636852736",
+    "firebase_url": "https://mapear-2.firebaseio.com",
+    "project_id": "mapear-2",
+    "storage_bucket": "mapear-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735636852736:android:946f117fbb3349a9",
+        "android_client_info": {
+          "package_name": "org.lablivre.mapear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735636852736-qn73lsct6t7rbkmfi8cu3rm9m6ovctsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBuOJaOBG_-PIoN35vNcRl0h45vZFQkfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
