@@ -1,4 +1,4 @@
-# mapearnovo
+MapeAR - Mapas colaborativos e realidade aumentada
 Plataforma de mapeamento colaborativo com realidade aumentada baseada no Mixare
 ============================
 STEPS FOR RUNNING ANDROID PROJECT
