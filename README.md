@@ -1,6 +1,6 @@
-#MapeAR - Mapas colaborativos e realidade aumentada
+# MapeAR - Mapas colaborativos e realidade aumentada
 
-##Plataforma de mapeamento colaborativo com realidade aumentada baseada no Mixare
+## Plataforma de mapeamento colaborativo com realidade aumentada baseada no Mixare
 
 STEPS FOR RUNNING ANDROID PROJECT:
 
